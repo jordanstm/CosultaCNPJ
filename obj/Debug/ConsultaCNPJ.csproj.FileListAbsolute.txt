@@ -1,0 +1,14 @@
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\ConsultaCNPJ.dll
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\ConsultaCNPJ.pdb
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\HtmlAgilityPack.dll
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\Newtonsoft.Json.dll
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\WebDriver.dll
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\HtmlAgilityPack.pdb
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\HtmlAgilityPack.xml
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\Newtonsoft.Json.xml
+C:\GitUltrasoftPadrao\ConsultaCNPJ\bin\Debug\WebDriver.xml
+C:\GitUltrasoftPadrao\ConsultaCNPJ\obj\Debug\ConsultaCNPJ.csproj.AssemblyReference.cache
+C:\GitUltrasoftPadrao\ConsultaCNPJ\obj\Debug\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\GitUltrasoftPadrao\ConsultaCNPJ\obj\Debug\Consulta.F4EE9201.Up2Date
+C:\GitUltrasoftPadrao\ConsultaCNPJ\obj\Debug\ConsultaCNPJ.dll
+C:\GitUltrasoftPadrao\ConsultaCNPJ\obj\Debug\ConsultaCNPJ.pdb
